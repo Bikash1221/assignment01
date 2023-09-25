@@ -1,0 +1,105 @@
+body {
+    font-family: 'Poppins';
+}
+.container{
+    margin-bottom: -180px;
+}
+.left-image{
+    width: 500px;
+    height: 45%;
+    margin-left: 70px;
+    margin-bottom: 50px;
+}
+.title{
+    font-size: 60px;
+    text-align: justify;
+    margin-left: 60px;
+    margin-top: -40px;
+    color: brown;
+
+}
+p{
+    margin-left: 60px;
+    font-size: 25px;
+}
+.background-image{
+    background-image: url("https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltef7455793dafd468/63ad6065b4b67166e05797aa/GettyImages-1245857495.jpg?auto=webp&format=pjpg&width=3840&quality=60");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    height: 100vh;
+    background-position: center ;
+}
+.images{
+    height: 180px;
+    width: 200px;
+    margin-left: 80%;
+    margin-top: 100px;
+    align-items: center;
+    background-color: white;
+    border: 1px solid white;
+  padding: 10px;
+  box-shadow: 10px 5px 8px 10px #ffffff;
+    
+}
+h1{
+    margin-left: 58%;
+    margin-top: -200px;
+    font-size: 60px;
+    color: whitesmoke;
+}
+.line{
+    margin-left: 58%;
+    font-size: 20px;
+    color: whitesmoke;
+}
+button{
+    margin-left: 60%;
+    width: 160px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 20px;
+}
+.lines{
+    font-size: 60px;
+    color: #ffffff;
+    
+}
+.head{
+    font-size: 60px;
+    text-align: end;
+    margin-right: 40px;
+   
+}
+.heads{
+    font-size: 60px;
+    z-index: 2;
+    text-align: end;
+    margin-right: 40px;
+}
+.gallery{
+    background-color: orangered;
+height: 850px;
+}
+.heading{
+    font-size: 60px;
+    color: #ffffff;
+    text-align: end;
+    margin-right: 12%;
+}
+.photo{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    height: 80vh;
+    background-position: center ;
+
+}
+.para{
+    text-align: center;
+    justify-content: center;
+    margin-top: -900px;
+    font-size: 70px;
+    letter-spacing: 5px;
+    color: white;
+}
